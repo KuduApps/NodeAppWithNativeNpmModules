@@ -1,0 +1,14 @@
+{
+    "name": "s",
+    "description": "s",
+    "version": "0.6.0",
+    "author": {
+        "name": "Microsoft Corporation"
+    },
+    "dependencies": {
+        "socket.io": "*",
+        "bufferstream": "*",
+        "bson-ext": "*",
+        "kerberos": "*"
+    }
+}
