@@ -6,9 +6,25 @@
         "name": "Microsoft Corporation"
     },
     "dependencies": {
-        "socket.io": "*",
+        "hiredis": "*",
+        "ph": "*",
+        "bcrypt": "*",
+        "phantomjs": "*",
+        "websocket": "*",
+        "sqlite3": "*",
+        "serialport": "*",
+        "iconv": "*",
+        "libxmljs": "*",
+        "fibers": "*",
+        "node-expat": "*",
+        "microtime": "*",
+        "zmq": "*",
+        "bufferutil": "*",
         "bufferstream": "*",
+        "kerberos": "*",
+        "socket.io": "*",
         "bson-ext": "*",
-        "kerberos": "*"
+        "node-sass": "*",
+        "utf-8-validate": "*"
     }
 }
