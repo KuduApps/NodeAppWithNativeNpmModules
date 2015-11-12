@@ -15,7 +15,6 @@
         "serialport": "*",
         "iconv": "*",
         "libxmljs": "*",
-        "fibers": "*",
         "node-expat": "*",
         "microtime": "*",
         "zmq": "*",
