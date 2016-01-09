@@ -12,7 +12,6 @@
         "phantomjs": "*",
         "websocket": "*",
         "sqlite3": "*",
-        "serialport": "*",
         "iconv": "*",
         "libxmljs": "*",
         "node-expat": "*",
