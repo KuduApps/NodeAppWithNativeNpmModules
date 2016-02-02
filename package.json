@@ -13,7 +13,7 @@
         "websocket": "*",
         "sqlite3": "*",
         "iconv": "*",
-        "libxmljs": "0.16.1",
+        "libxmljs": "*",
         "node-expat": "*",
         "microtime": "*",
         "zmq": "*",
