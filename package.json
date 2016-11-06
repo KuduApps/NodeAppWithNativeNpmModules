@@ -12,7 +12,7 @@
         "bcrypt": "*",
         "phantomjs": "*",
         "websocket": "*",
-        "sqlite3": "*",
+        "sqlite3": "3.1.7",
         "iconv": "*",
         "libxmljs": "*",
         "microtime": "*",
