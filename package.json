@@ -12,7 +12,7 @@
         "bcrypt": "*",
         "phantomjs": "*",
         "websocket": "*",
-        "sqlite3": "3.1.7",
+        "sqlite3": "*",
         "iconv": "*",
         "libxmljs": "*",
         "microtime": "*",
@@ -23,6 +23,8 @@
         "socket.io": "*",
         "bson-ext": "*",
         "node-sass": "*",
-        "utf-8-validate": "*"
+        "utf-8-validate": "*",
+        "lwip": "*",
+        "hummus": "*"
     }
 }
