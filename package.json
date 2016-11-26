@@ -5,7 +5,7 @@
     "author": {
         "name": "Microsoft Corporation"
     },
-    "engines" : { "node" : "^4.0.0" },
+    "engines" : { "node" : "^6.0.0" },
     "dependencies": {
         "hiredis": "*",
         "ph": "*",
