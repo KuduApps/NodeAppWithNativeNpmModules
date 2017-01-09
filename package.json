@@ -24,7 +24,6 @@
         "bson-ext": "*",
         "node-sass": "*",
         "utf-8-validate": "*",
-        "lwip": "*",
-        "hummus": "*"
+        "lwip": "*"
     }
 }
