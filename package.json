@@ -5,7 +5,9 @@
     "author": {
         "name": "Microsoft Corporation"
     },
-    "engines" : { "node" : "^6.0.0" },
+    "engines": {
+        "node": "^6.0.0"
+    },
     "dependencies": {
         "hiredis": "*",
         "ph": "*",
@@ -23,7 +25,6 @@
         "socket.io": "*",
         "bson-ext": "*",
         "node-sass": "*",
-        "utf-8-validate": "*",
-        "lwip": "*"
+        "utf-8-validate": "*"
     }
 }
